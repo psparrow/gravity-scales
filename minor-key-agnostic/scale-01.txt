@@ -2,11 +2,11 @@ Minor Resolution Scale 1
 
 Lydian Dominant (Melodic Minor, 4th mode)
 
-1 2 3 4 5 6 b7
+1 2 3 b5 5 6 b7
 
 E||---|---|---|---|
 B||---|-X-|-X-|---|
-G||-X-|-X-|---|-X-|
+G||-X-|---|-X-|-X-|
 D||---|-X-|---|-X-|
 A||---|---|---|---|
 E||---|---|---|---|
