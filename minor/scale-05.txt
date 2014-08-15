@@ -1,8 +1,12 @@
-Scale 9: C Db Eb F Gb Ab Bb
+Minor Resolution Scale 5
+
+C Phrygian Dominant (F Harmonic Minor, 5th mode)
+
+C Db E F G Ab Bb
 
 E||------------------------
 B||----------------9-11----
-G||--------8-10-11---------
+G||--------9-10-12---------
 D||--10-11-----------------
 A||------------------------
 E||------------------------

@@ -1,4 +1,6 @@
-Scale 4: C Db E F G A
+Major Resolution Scale 6
+
+C Db E F G A
 
 E||------------------------
 B||-------------8-10-------

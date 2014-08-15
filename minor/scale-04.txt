@@ -1,4 +1,8 @@
-Scale 2: C Db Eb E Gb Ab Bb
+Minor Resolution Scale 4
+
+C Altered Scale (C# Melodic Minor, 7th mode)
+
+C Db Eb E Gb Ab Bb
 
 E||------------------------
 B||---------------9-11-----

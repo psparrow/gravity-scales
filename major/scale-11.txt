@@ -1,4 +1,6 @@
-Scale 11: C D E Gb G A Bb
+Major Resolution Scale 11
+
+C D E Gb G A Bb
 
 E||------------------------
 B||----------------10-11---

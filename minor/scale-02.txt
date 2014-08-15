@@ -1,4 +1,8 @@
-Scale 5: C D E F G Ab Bb
+Minor Resolution Scale 2
+
+C Mixolydian b13 (F Melodic Minor, 5th mode)
+
+C D E F G Ab Bb
 
 E||------------------------
 B||----------------9-11----

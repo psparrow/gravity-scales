@@ -1,4 +1,6 @@
-Scale 12: C Db Eb E G Ab Bb
+Major Resolution Scale 12
+
+C Db Eb E G Ab Bb
 
 E||------------------------
 B||------------8-9-11------
