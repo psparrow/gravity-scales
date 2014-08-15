@@ -1,0 +1,12 @@
+Minor Resolution Scale 5
+
+Phrygian Dominant (Harmonic Minor, 5th mode)
+
+1 b2 3 4 5 b6 b7
+
+E||---|---|---|---|
+B||-X-|---|-X-|---|
+G||-X-|-X-|---|-X-|
+D||---|-X-|-X-|---|
+A||---|---|---|---|
+E||---|---|---|---|

@@ -1,0 +1,12 @@
+Major Resolution Scale 4
+
+Altered Scale (Melodic Minor, 7th mode)
+
+1 b2 b3 3 b5 b6 b
+
+E||---|---|---|---|
+B||---|-X-|---|-X-|
+G||-X-|-X-|---|-X-|
+D||---|---|-X-|-X-|
+A||---|---|---|---|
+E||---|---|---|---|
