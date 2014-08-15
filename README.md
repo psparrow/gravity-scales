@@ -9,52 +9,50 @@ The 5 scales in the minor group are a combination of John Stowell's 4 melodic mi
 
 The first 4 scales in each group are the same. They are also listed below.  I am aware than more than 4 of the scales in the major group may also work with minor key resolution.  I still have to sort that out.  This will be a work in progress for awhile.
 
-The scales are transcribed to resolve to the key of F. They all start on a C, which is the 5th note in the key.
-
 Enjoy!
 
 ```
 Scale 1
-C Lydian Dominant (G Melodic Minor, 4th mode)
-C D E F G A Bb
+Lydian Dominant (Melodic Minor, 4th mode)
+1 2 3 4 5 6 b7
 
-E||------------------------
-B||----------------10-11---
-G||--------9-10-12---------
-D||--10-12-----------------
-A||------------------------
-E||------------------------
+E||---|---|---|---|
+B||---|-X-|-X-|---|
+G||-X-|-X-|---|-X-|
+D||---|-X-|---|-X-|
+A||---|---|---|---|
+E||---|---|---|---|
 
 Scale 2
-C Mixolydian b13 (F Melodic Minor, 5th mode)
-C D E F G Ab Bb
+Mixolydian b13 (Melodic Minor, 5th mode)
+1 2 3 4 5 b6 b7
 
-E||------------------------
-B||----------------9-11----
-G||--------9-10-12---------
-D||--10-12-----------------
-A||------------------------
-E||------------------------
+E||---|---|---|---|
+B||-X-|---|-X-|---|
+G||-X-|-X-|---|-X-|
+D||---|-X-|---|-X-|
+A||---|---|---|---|
+E||---|---|---|---|
 
 Scale 3
-C Dorian b2 (Bb Melodic Minor, 2nd mode)
-C Db Eb F G A Bb
+Dorian b2 (Melodic Minor, 2nd mode)
+1 b2 b3 4 5 6 b7
 
-E||------------------------
-B||-------------8-10-11----
-G||--------8-10------------
-D||--10-11-----------------
-A||------------------------
-E||------------------------
+E||---|---|---|---|
+B||-X-|---|-X-|-X-|
+G||-X-|---|-X-|---|
+D||---|---|-X-|-X-|
+A||---|---|---|---|
+E||---|---|---|---|
 
 Scale 4
-C Altered Scale (C# Melodic Minor, 7th mode)
-C Db Eb E Gb Ab Bb
+Altered Scale (Melodic Minor, 7th mode)
+1 b2 b3 3 b5 b6 b
 
-E||------------------------
-B||---------------9-11-----
-G||--------8-9-11----------
-D||--10-11-----------------
-A||------------------------
-E||------------------------
+E||---|---|---|---|
+B||---|-X-|---|-X-|
+G||-X-|-X-|---|-X-|
+D||---|---|-X-|-X-|
+A||---|---|---|---|
+E||---|---|---|---|
 ```
