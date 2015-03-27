@@ -7,7 +7,7 @@ The 12 scales in the major group are a condensed version of Ted Dunbar's "gravit
 
 The 5 scales in the minor group are a combination of John Stowell's 4 melodic minor scales (http://www.bobbysternjazz.com/1/post/2014/01/stowell-from-john-4-melodic-minor-scales-as-dominant-subs.html) and a harmonic minor scale.
 
-The first 4 scales in each group are the same. They are also listed below.  I am aware than more than 4 of the scales in the major group may also work with minor key resolution.  I still have to sort that out.  This will be a work in progress for awhile.
+The first 4 scales in each group are the same. They are also listed below.  I am aware that more than 4 of the scales in the major group may also work with minor key resolution.  I still have to sort that out.  This will be a work in progress for awhile.
 
 Enjoy!
 
