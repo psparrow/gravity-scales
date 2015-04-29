@@ -9,78 +9,52 @@ The 5 scales in the minor group are a combination of John Stowell's 4 melodic mi
 
 The first 4 scales in each group are the same. They are also listed below.  I am aware than more than 4 of the scales in the major group may also work with minor key resolution.  I still have to sort that out.  This will be a work in progress for awhile.
 
+The scales in this branch of the repository are tabbed out for P4 tuning (A.K.A all fourths or perfect fourths). If you play in that tuning, they can be transposed anywhere on the neck!
+
 Enjoy!
 
 ```
-Scale 1
 Lydian Dominant (Melodic Minor, 4th mode)
+
 1 2 3 b5 5 6 b7
 
-E||---|---|---|---|---|
-B||---|---|-X-|-X-|---|
-G||---|-X-|---|-X-|-X-|
-D||---|---|-X-|---|-X-|
-A||---|---|---|---|---|
-E||---|---|---|---|---|
+|-X-|-X-|---|---|
+|-X-|---|-X-|-X-|
+|---|-X-|---|-X-|
 
-E||---|-X-|-X-|---|---|
-B||---|-X-|---|-X-|-X-|
-G||---|-X-|---|-X-|---|
-D||---|---|---|---|---|
-A||---|---|---|---|---|
-E||---|---|---|---|---|
-
-Scale 2
 Mixolydian b13 (Melodic Minor, 5th mode)
+
 1 2 3 4 5 b6 b7
 
-E||---|---|---|---|---|
-B||---|-X-|---|-X-|---|
-G||---|-X-|-X-|---|-X-|
-D||---|---|-X-|---|-X-|
-A||---|---|---|---|---|
-E||---|---|---|---|---|
+||-X-|-X-|---|-X-|
+||-X-|---|-X-|-X-|
+||---|---|---|-X-|
 
-E||---|-X-|-X-|---|-X-|
-B||---|-X-|---|-X-|-X-|
-G||---|---|---|-X-|---|
-D||---|---|---|---|---|
-A||---|---|---|---|---|
-E||---|---|---|---|---|
-
-Scale 3
 Dorian b2 (Melodic Minor, 2nd mode)
+
 1 b2 b3 4 5 6 b7
 
-E||---|---|---|---|
-B||-X-|---|-X-|-X-|
-G||-X-|---|-X-|---|
-D||---|---|-X-|-X-|
-A||---|---|---|---|
-E||---|---|---|---|
+||---|-X-|-X-|---|---|
+||-X-|---|-X-|---|-X-|
+||---|---|-X-|-X-|---|
 
-E||---|-X-|---|-X-|-X-|
-B||---|---|-X-|---|-X-|
-G||---|---|---|-X-|-X-|
-D||---|---|---|---|---|
-A||---|---|---|---|---|
-E||---|---|---|---|---|
+||-X-|---|-X-|-X-|---|
+||---|-X-|---|-X-|---|
+||---|---|---|-X-|-X-|
 
-Scale 4
+||-X-|-X-|---|---|---|
+||---|-X-|---|-X-|---|
+||---|-X-|-X-|---|-X-|
+
+||-X-|---|---|---|---|
+||-X-|---|-X-|---|-X-|
+||-X-|-X-|---|-X-|---|
+
 Altered Scale (Melodic Minor, 7th mode)
-1 b2 b3 3 b5 b6 b7
 
-E||---|---|---|---|
-B||---|-X-|---|-X-|
-G||-X-|-X-|---|-X-|
-D||---|---|-X-|-X-|
-A||---|---|---|---|
-E||---|---|---|---|
+1 b2 b3 3 b5 b6 b
 
-E||---|-X-|---|-X-|---|---|
-B||---|-X-|-X-|---|-X-|---|
-G||---|---|-X-|-X-|---|---|
-D||---|---|---|---|---|---|
-A||---|---|---|---|---|---|
-E||---|---|---|---|---|---|
+||-X-|---|-X-|---|
+||-X-|-X-|---|-X-|
+||---|---|-X-|-X-|
 ```

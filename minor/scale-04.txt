@@ -1,12 +1,9 @@
 Minor Resolution Scale 4
 
-C Altered Scale (C# Melodic Minor, 7th mode)
+Altered Scale (Melodic Minor, 7th mode)
 
-C Db Eb E Gb Ab Bb
+1 b2 b3 3 b5 b6 b
 
-E||------------------------
-B||---------------9-11-----
-G||--------8-9-11----------
-D||--10-11-----------------
-A||------------------------
-E||------------------------
+||-X-|---|-X-|---|
+||-X-|-X-|---|-X-|
+||---|---|-X-|-X-|
